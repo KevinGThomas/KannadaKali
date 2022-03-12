@@ -1,4 +1,4 @@
-Pillow==7.0.0
+Pillow==9.0.1
 tensorflow==1.14.0
 djangorestframework==3.11.0
 Keras==2.3.1
